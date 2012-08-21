@@ -1,0 +1,25 @@
+Input: mushroom.in
+Output: mushroom.in.results
+N: 8124	K: 22
+
+Found 16 clusters.
+
+Clustered SPs
+C1: ringnumber gillspacing veilcolor ringtype 
+C2: capsurface 
+C3: capcolor 
+C4: population stalkshape bruises 
+C5: odor 
+C6: gillattachment capshape 
+C7: habitat 
+C8: gillsize 
+C9: gillcolor 
+C10: sporeprintcolor 
+C11: stalkroot 
+C12: stalksurfaceabovering 
+C13: stalksurfacebelowring 
+C14: stalkcolorabovering 
+C15: stalkcolorbelowring 
+C16: veiltype 
+
+Consenses (only for clusters with > 2 SP)
