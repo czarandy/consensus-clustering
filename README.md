@@ -2,8 +2,7 @@ Set Partition & Consensus Clustering Library
 
 Code written as part of research described in the paper:
 
-    Consensus Clustering Algorithms: Comparison & Refinement (Andrey Goder & Vladimir Filkov)
-    http://www.cs.ucdavis.edu/~filkov/papers/consensuseval.pdf
+[Consensus Clustering Algorithms: Comparison & Refinement](http://www.cs.ucdavis.edu/~filkov/papers/consensuseval.pdf) (Andrey Goder & Vladimir Filkov)
 
 I haven't updated it since it was originally written in 2007, apart from ensuring it compiles. No guarantees.
 
