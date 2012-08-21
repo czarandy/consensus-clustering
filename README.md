@@ -1,4 +1,5 @@
-== Set Partition & Consensus Clustering Library ==
+Set Partition & Consensus Clustering Library
+============================================
 
 I wrote this code as part of research described in the paper [Consensus Clustering Algorithms: Comparison & Refinement](http://www.cs.ucdavis.edu/~filkov/papers/consensuseval.pdf) (Andrey Goder & Vladimir Filkov).
 
